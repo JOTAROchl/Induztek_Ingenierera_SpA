@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Induztek SpA Colors (Opción 1 - Confianza Tecnológica) -->
+    <!-- Light Theme Colors -->
+    <color name="primaryBlue">#1565C0</color>
+    <color name="secondaryCyan">#00BCD4</color>
+    <color name="tertiaryAmber">#FF8F00</color>
+    <color name="backgroundLight">#F5F5F5</color>
+    <color name="surfaceLight">#FFFFFF</color>
+    <color name="onPrimaryLight">#FFFFFF</color>
+
+    <!-- Dark Theme Colors -->
+    <color name="primaryBlueDark">#90CAF9</color>
+    <color name="secondaryCyanDark">#80DEEA</color>
+    <color name="tertiaryAmberDark">#FFCC80</color>
+    <color name="backgroundDark">#121212</color>
+    <color name="surfaceDark">#1E1E1E</color>
+    <color name="onPrimaryDark">#003258</color>
+</resources>

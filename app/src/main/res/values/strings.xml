@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Induztek SpA</string>
+
+    <!-- Login Screen -->
+    <string name="login_title">Bienvenido a Induztek SpA</string>
+    <string name="login_subtitle">Ingeniería de Protocolos</string>
+    <string name="username_label">Correo Electrónico *</string>
+    <string name="username_hint">Ingrese su correo electrónico</string>
+    <string name="password_label">Contraseña *</string>
+    <string name="password_hint">Ingrese su contraseña</string>
+    <string name="login_button">Iniciar Sesión</string>
+    <string name="login_error_empty">Por favor, complete todos los campos.</string>
+    <string name="login_error_invalid">Correo o contraseña incorrectos. Si no tienes cuenta, por favor regístrate.</string>
+
+    <!-- General -->
+    <string name="error_general">Ha ocurrido un error inesperado.</string>
+</resources>
